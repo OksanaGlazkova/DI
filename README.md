@@ -1,7 +1,6 @@
-# DI
 Junior DE - Домашнее задание
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Добрый+день!)](https://git.io/typing-svg)<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+#[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Добрый+день!)](https://git.io/typing-svg)<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
   
 Первое задание протестировано на небольшом объёме данных. Если же исходный DataFrame будет достигать млн строк, то возможности Pandas, в данном случае, ограничены, т.к. он  хранит все данные в оперативной памяти. Поэтому для таких объёмных вычислений можно, например:
 - обработать файлы помимо Pandas
@@ -15,4 +14,4 @@ Junior DE - Домашнее задание
 Спасибо за то, что дали возможность поучавствовать!) Подсветили мне в мои слабые места - буду усиливать их. 
 Если возможно предоставить побольше времени, то смогу прислать ответ на задания в полном объёме - с docker-compose и unit-test. 
 Я так поняла, но уже позже - в силу небольшого опыта, что необходим был всё-таки docker-compose с выходом через API и с БД. 
-Интересное задание) Спасибо за внимание
+Интересное задание) Спасибо за внимание!☺
