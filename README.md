@@ -1,6 +1,6 @@
 # DI
 Junior DE - Домашнее задание
-[![Добрый день!](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Добрый+день!)](https://git.io/typing-svg)
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
   
 Первое задание протестировано на небольшом объёме данных. Если же исходный DataFrame будет достигать млн строк, то возможности Pandas, в данном случае, ограничены, т.к. он  хранит все данные в оперативной памяти. Поэтому для таких объёмных вычислений можно, например:
